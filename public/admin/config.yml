@@ -2,6 +2,7 @@ backend:
   name: github
   repo: EdwainPhilo/EdwainPhilo.github.io
   branch: main
+  local_backend: true
   # 对于公开仓库，可以省略 auth_scope（默认为 public_repo）
   # auth_scope: public_repo
 # 媒体文件存储路径（相对于仓库根目录）
