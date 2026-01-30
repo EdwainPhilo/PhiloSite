@@ -5,7 +5,7 @@ backend:
   # 对于公开仓库，可以省略 auth_scope（默认为 public_repo）
   # auth_scope: public_repo
   auth_type: pkce
-  auth_scope: public_repo
+  auth_scope: repo
   client_id: Ov23ctr7M5ShaJ0geBCB
   api_root: "https://netlify-cms-github-oauth-provider-two.vercel.app/api/v1"
 # 媒体文件存储路径（相对于仓库根目录）
