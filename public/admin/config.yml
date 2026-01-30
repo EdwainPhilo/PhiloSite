@@ -2,7 +2,9 @@ backend:
   name: github
   repo: EdwainPhilo/EdwainPhilo.github.io
   branch: main
-  auth_type: implicit
+  site_domain: edwainphilo.github.io
+  base_url: https://edwainphilo.github.io
+  auth_endpoint: oauth
 # 媒体文件存储路径（相对于仓库根目录）
 media_folder: "src/assets"
 # 前端访问的公共路径（相对于构建输出）

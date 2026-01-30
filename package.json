@@ -14,6 +14,7 @@
     "@astrojs/sitemap": "^3.7.0",
     "@astrojs/vue": "^5.1.4",
     "astro": "^5.17.1",
+    "astro-decap-cms-oauth": "^0.5.1",
     "sharp": "^0.34.3"
   }
 }
